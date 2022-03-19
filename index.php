@@ -132,5 +132,29 @@ if(isset($_POST['value'])){
             </div>
         </section>
     </div>
+
+    <footer>
+        <div class="footer-left">
+            <p class="fins"> Projeto realizado com fins de <strong>aprendizado</strong>, colocar em pratica os conteudos aprendidos até o momento no curso
+                de <strong>PHP do Gunnar Correa</strong> na plataforma <strong>Udemy</strong>.
+            </p>       
+            <p>Feito por <strong>Nickolas Alexandre</strong></p>
+            <p>Caso queira entrar em contato:</p>
+            <section>
+                <p>E-mail: nickolaz.0603@gmail.com</p>
+                <a href="https://www.linkedin.com/in/nickolas-alexandre-b7b43a20b/" target="_blank">LinkedIn</a>
+            </section>
+        </div>
+        
+        <div class="footer-rigth">
+            <p> Imagens meramente ilustrativas afim de dar contexto ao projeto:</p>
+            <ul>
+                <li>Principal - <a href="https://www.gettyimages.com.br/fotos/yoho-national-park" target="_blank">Yoho national park</a></li>
+                <li>Lateral da janela - <a href="https://www.houzz.com/photos/north-lake-wenatchee-cabin-dining-rustic-dining-room-seattle-phvw-vp~166450" target="_blank">Sala de jantar Seattle</a></li>
+                <li>Lareira - <a href="https://br.pinterest.com/pin/205265695494637375/" target="_blank">Decoração casa de campo</a></li>
+                <li>Centro - <a href="https://www.riverbendtf.com/blog/open-spaces/" target="_blank">Timber framing - Outdoor Ties</a></li>
+            </ul>
+        </div>
+    </footer>
 </body>
 </html>
