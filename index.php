@@ -41,8 +41,13 @@ if(isset($_POST['value'])){
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
+
+    <img style="width: 100%; height: 500px;" src="img/paisagem.jpg" alt="Casa do lago no inverno">
+
     <div class="container">
-        <h1>Veja nossa pagina de comentarios</h1>
+
+        <h1>Comentarios sobre a casa do lago</h1>
+
         <div class="coments-container">
             <form action="index.php" method="post">
                 <?php
@@ -101,6 +106,7 @@ if(isset($_POST['value'])){
                 <input type="submit" value=">">
             </form>
         </div>
+        <hr class="line">
     </div>
 </body>
 </html>
